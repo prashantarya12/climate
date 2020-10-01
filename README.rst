@@ -10,8 +10,8 @@ Apache Open Climate Workbench
 |anacondaversion|_
 
 .. image:: ./docs/source/ocw-logo-variant-sm-01-01-new.png
-   :width: 20px
-   :height: 100px
+   :width: 30px
+   :height: 120px
    :scale: 50%
    :alt: alternate text
    :align: right
